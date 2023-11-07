@@ -2,11 +2,11 @@
 # Anton Afonin
 
 ## Contact information
-Phone: +1 (581) 849 9109
-Telegram: @atntek
-email: antonafonin567@gmail.com
-[LinkedIn](https://www.linkedin.com/in/anton-afonin-8628a0270/)
-[GitHub](https://github.com/litvinovanton7)
+- Phone: +1 (581) 849 9109
+- Telegram: @atntek
+- email: antonafonin567@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/anton-afonin-8628a0270/)
+- [GitHub](https://github.com/litvinovanton7)
 
 ## About me
  
