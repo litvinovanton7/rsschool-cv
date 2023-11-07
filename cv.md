@@ -10,7 +10,7 @@ email: antonafonin567@gmail.com
 
 ## About me
  
-I have a goal to become a frontend developer. My strengths are speaking, fast solving problems and productivity. These qualities help me to have good social relations, working in team and completing all tasks on time before deadlines. I always improve my skills.
+I have a goal to become a front-end developer. My strengths are speaking, fast-solving problems, and productivity. These qualities help me to have good social relations, work in a team, and complete all tasks on time before deadlines. I always study and improve my skills.
 
  ## Skills
  - HTML
