@@ -85,3 +85,16 @@ a {
     color: #608b8b;
     margin-top: 20px;
 }
+
+.skills {
+    margin-top: 20px;
+}
+
+.skills__list {
+    margin: 20px;
+    color: #608b8b;
+}
+
+.skill {
+    padding-top: 10px;
+}
