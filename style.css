@@ -6,10 +6,6 @@
     padding: 0;
 }
 
-ul {
-    list-style: none;
-}
-
 a {
     text-decoration: none;
 }
@@ -97,4 +93,42 @@ a {
 
 .skill {
     padding-top: 10px;
+}
+
+.code {
+    margin-top: 30px;
+}
+
+.title__code {
+    margin-bottom: 20px;
+}
+
+.experience {
+    margin-top: 20px;
+}
+
+.text__experience {
+    margin-top: 10px;
+    color: #608b8b;
+}
+
+.education {
+    margin-top: 30px;
+}
+
+.education__list {
+    margin: 20px;
+}
+
+.ed__link {
+    color: #608b8b;
+}
+
+.english {
+    margin-top: 20px;
+}
+
+.text__english {
+    margin: 20px;
+    color: #608b8b;
 }
