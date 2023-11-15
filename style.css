@@ -1,0 +1,134 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.header__top {
+    padding: 20px;
+
+}
+
+.header__menu {
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    padding: 20px;
+}
+
+.menu__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__link {
+    color: #608b8b; 
+    font-size: 20px;   
+}
+
+.menu__link:hover {
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+}
+
+.header__content {
+    margin-top: 50px;
+}
+
+.contact {
+    margin: 0 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact__title {
+    font-size: 40px;
+}
+
+.contact__list {
+    margin-top: 10px;
+}
+
+.contact__item {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.contact__link {
+    color: #608b8b;
+}
+
+.about__me {
+    margin: 50px 70px 0 70px ;
+}
+
+.about__title {
+    font-size: 30px;
+}
+
+.about__text {
+    font-size: 18px;
+    color: #608b8b;
+    margin-top: 20px;
+}
+
+.skills {
+    margin-top: 20px;
+}
+
+.skills__list {
+    margin: 20px;
+    color: #608b8b;
+}
+
+.skill {
+    padding-top: 10px;
+}
+
+.code {
+    margin-top: 30px;
+}
+
+.title__code {
+    margin-bottom: 20px;
+}
+
+.experience {
+    margin-top: 20px;
+}
+
+.text__experience {
+    margin-top: 10px;
+    color: #608b8b;
+}
+
+.education {
+    margin-top: 30px;
+}
+
+.education__list {
+    margin: 20px;
+}
+
+.ed__link {
+    color: #608b8b;
+}
+
+.english {
+    margin-top: 20px;
+}
+
+.text__english {
+    margin: 20px;
+    color: #608b8b;
+}
